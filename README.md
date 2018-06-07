@@ -1,13 +1,13 @@
 # GTA
 Velkommen til EDG nye GTA server vores projekt vil være opensource og vil være frit tilgænglig for alle personer som ønsker at benytte det.
 
-## Support
+# Support
 Vi yder ikke support når du først har ændret filerne
 
 
 
 
-### Regler (Opdateres)
+# Regler (Opdateres)
 •	Der må kun spilles musik i biler eller huse. <br>
 •	Alle våben skal være ægte, synlig og udgøre en direkte trussel. At sige at man har et våben er ikke nok!<br>
 •	Alt rollespil skal indledes verbalt, en tekst er ikke en gyldig form for indledes, medmindre det er i form af gidsel forhandlinger.<br>
