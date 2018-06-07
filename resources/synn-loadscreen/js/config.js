@@ -66,10 +66,10 @@ var config =
     */
     loadingMessages:
     [
-        "Picking up snails... &#x1f40c;",
-        "Placing snails on the map... &#x1f40c;",
-        "Crushing a snail.... &#x1f40c; &#x1f528;",
-        "Stepping on a snail.... &#x1f40c; &#x1f462;",
+        "Samler op snegle... &#x1f40c;",
+        "Placere snegle på map... &#x1f40c;",
+        "Smadre en snegl.... &#x1f40c; &#x1f528;",
+        "Hopper på en snegl.... &#x1f40c; &#x1f462;",
         "Putting slugs back into their shell.. &#x1f41a.",
         "Playing cricket with a snail... &#x1f3cf",
         "Programming snail AI... &#x1f9e0;",
