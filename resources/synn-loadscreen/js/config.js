@@ -70,7 +70,10 @@ var config =
         "Placere snegle på map... &#x1f40c;",
         "Smadre en snegl.... &#x1f40c; &#x1f528;",
         "Hopper på en snegl.... &#x1f40c; &#x1f462;",
-        "Ingen snegle være blevet skadet under denne loading skærm. &#x1f691;",
+        "Ingen snegle er blevet skadet under denne loading skærm. &#x1f691;",
+        "Indlæser data filer....;",
+        "Indlæser dine spil oplysninger....;",
+        "Indlaeser dine fart boder....;",
     ],
  
     /*
