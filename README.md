@@ -9,21 +9,37 @@ Vi yder ikke support når du først har ændret filerne
 
 # Regler (Opdateres)
 •	Der må kun spilles musik i biler eller huse.
+
 •	Alle våben skal være ægte, synlig og udgøre en direkte trussel. At sige at man har et våben er ikke nok!
+
 •	Alt rollespil skal indledes verbalt, en tekst er ikke en gyldig form for indledes, medmindre det er i form af gidsel forhandlinger.
+
 •	Du må ikke starte RP inde fra en bil!
+
 •	Ingen køretøjer er skudsikre, at bruge din bil som beskyttelse for at udnytte det faktum, det er skudsikkert er FailRP.
+
 •	Combat logning af enhver type er ikke tilladt.
+
 •	Du må ikke tage noget våben/tøj/fysiske genstande fra en bevidstløs person. Du kan kun plyndre virtuelle genstande, der falder på jorden.
+
 •	Du skal værdsætte dit liv på alle tidspunkter.
+
 •	Du må ikke tvinge nogen til at interagere med en pengeautomat eller NPC.
+
 •	Du må ikke skade en EMS til enhver tid og du må ikke stjæler deres køretøjer.
+
 •	Du må ikke tage politiets eller EMS’ udstyr (Tøj, veste, taser, rygsæk).
+
 •	Du må ikke meta-game eller bruge information fra Steam, twitch, osv.
+
 •	Alle skuddueller betragtes som færdige, når de har nået 10 minutter efter sidste skud fra en part der er involveret.
+
 •	Det er ikke tilladt at bruge lokkemad/baite på følgende områder: PD og DOC.
+
 •	Det er ikke tilladt at bruge en kranvogn til at tage andres biler til egen nytte.
+
 •	SDAR kan kun benyttes til skildpadde krybskytteri. Dette våben kan ikke bruges til at skade en anden spiller.
+
 •	Tow trucks må KUN bruges til at hente biler som er blevet ødelagt / Ikke kan køre. Mekanikeren i lakeside benytter denne flittigt. Tow trucks må IKKE bruges til at Køre STOFFER eller andre ulovlige genstande
 
 ### -GreenZone(Grøn zone)
